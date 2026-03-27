@@ -1,3 +1,6 @@
+## Description
+A workflow automation tool built with Google Apps Script that routes inquiries from Google Forms to appropriate assignees and sends notification emails automatically.
+
 ## 概要
 Googleフォームから受け付けた問い合わせを自動で振り分け、担当者へ通知する業務効率化ツールです。  
 担当者情報をスプレッドシートで管理することで、コード修正なしで運用可能な設計としています。
